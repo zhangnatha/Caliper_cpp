@@ -1,4 +1,12 @@
 # Caliper_cpp
+- cmake 3.17.5
+
+- ubuntu18.04
+
+- [opencv4.5.5](https://github.com/opencv/opencv/releases/tag/4.5.5)
+
+
+
 Caliper algorithm for dimension measurement
 
 In `main.cpp` parameter description following
